@@ -7,5 +7,5 @@ cask "trueclose" do
   desc "A macOS menu bar utility that auto-quits apps when they have no open windows left"
   homepage "https://github.com/nhatnam7kz/TrueClose"
 
-  app "True Close.app"
+  app "TrueClose.app"
 end
