@@ -1,6 +1,6 @@
 cask "trueclose" do
-  version "1.2.2"
-  sha256 "dd248b4016c2bb29b9a757368a0614302c9f044c19cd13cb446ced227e7d5cfa"
+  version "1.2.3"
+  sha256 "608eb5562bd47fc021b4d84b7acfb63e15d66815dffea0a0e83df3b189973ff3"
 
   url "https://github.com/nhatnam7kz/TrueClose/releases/download/v#{version}/TrueClose.dmg"
   name "TrueClose"
